@@ -1,0 +1,38 @@
+<head>
+    <meta charset="utf-8">
+    <title>Kadek Aldi Setiawan CV's</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><img src="circle-cropped.png" alt="kadek aldi setiawan"></td>
+            <td><h1>Kadek Aldi Setiawan</h1>
+            <p>My Phone Number    :085738269164</p>
+            <p>My email address    :alddisetiawan@gmail.com</p>
+            <p>I lived in Denpasar Utara, Bali</p></td>
+        </tr>
+    </table>
+    <hr> 
+    <h2>Education</h2>
+    <ul>
+        <li>SD Negeri 3 Ubung Kaja</li>
+        <li>SMP Negeri 4 Denpasar</li>
+        <li><a href="https://www.sman8denpasar.sch.id/">SMA Negeri 8 Denpasar</a></li>
+        <li><a href="https://undiksha.ac.id/en/">Mathematic Education in Universitas Pendidikan Ganesha</a></li>
+    </ul> 
+    <h2>Achievement</h2>
+    <ol type="1">
+        <li>Juara Harapan 2 Karya Tulis Ilmiah</li>
+        <li>Lolos Pendanaan KBMI 2019</li>
+    </ol>
+    <h2>Skills</h2>
+    <table>
+        <tr>
+            <td>Matematika</td> <td>&#11088 &#11088 &#11088 &#11088 &#11088</td>
+            <td>Animasi</td> <td>&#11088 &#11088 &#11088</td>
+        </tr>
+        <tr>
+            <td>Internet Marketing</td>
+            <td>&#11088 &#11088</td>
+        </tr>
+</body>
